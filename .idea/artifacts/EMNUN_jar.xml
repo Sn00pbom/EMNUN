@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EMNUN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EMNUN_jar</output-path>
+    <root id="archive" name="EMNUN.jar">
+      <element id="module-output" name="EMNUN" />
+    </root>
+  </artifact>
+</component>
